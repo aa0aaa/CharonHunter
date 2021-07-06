@@ -7,11 +7,13 @@ To Run This in Termux
 
 • apt upgrade
 
+• pkg install git
+
 • pkg install python
 
 • pip install requests
 
-• pip install time
+• pip install colorama
 
 • git clone https://github.com/aa0aaa/CharonHunter.git
 
