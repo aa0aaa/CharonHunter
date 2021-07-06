@@ -12,7 +12,7 @@ To Run This in Termux
 
 • pip install time
 
-• git clone https://github.com/hmode11/CharonHunter.git
+• git clone https://github.com/aa0aaa/CharonHunter.git
 
 • cd CharonHunter
 
